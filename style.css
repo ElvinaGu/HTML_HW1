@@ -1,0 +1,30 @@
+a {
+  text-decoration: none;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+.menuLink {
+  color: cornflowerblue;
+  font-size: 16px;
+  line-height: 20px;
+}
+.mainHeading {
+  color: #501e1e;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 700;
+}
+.paragraphText {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  color: #7d7987;
+}
+.sectionHeading {
+  color: coral;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 80px;
+}
